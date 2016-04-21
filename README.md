@@ -1,4 +1,3 @@
 # CallMeXYZ.github.io
-
-
-my homepage
+## 2016.4.21
+-try to understand ssm
